@@ -10,7 +10,7 @@
   --screen-lg: 60em;
   --screen-xl: 80em;
 
-  --color-neutral: #4299e1;
+  --color-neutral: #abcd03;
   --color-error: #e53e3e;
   --color-warning: #ed8936;
   --color-success: #48bb78;
@@ -21,8 +21,9 @@
   --color-orange: #ed8936;
   --color-red: #e53e3e;
 
-  --accent-primary: #0053a0;
-  --accent-secondary: #e2383f;
+  --accent-primary: #abcd03;
+  --accent-secondary: #6fba2c;
+  --christmas-green: #5B9B38;
   --accent-dark: #3d4b60;
 
   --global-radius: 0.5em;
@@ -84,7 +85,7 @@ hr {
   left: 0;
   z-index: 200;
   width: 100%;
-  background-color: var(--accent-dark);
+  background-color: var(--accent-secondary);
   color: #fff;
 }
 
