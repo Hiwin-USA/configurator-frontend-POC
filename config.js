@@ -1,7 +1,7 @@
 // Update these values to match those of your Server URL & DriveWorks Group Alias
 
 const config = {
-    serverUrl: "http://192.168.2.68:5000",
+    serverUrl: "http://192.168.2.56:81",
     groupAlias: "IntegrationThemeGroup",
     // (Optional) Set Specification ping interval - in seconds
     // A Specification will timeout after a configured period of inactivity (see DriveWorksConfigUser.xml).

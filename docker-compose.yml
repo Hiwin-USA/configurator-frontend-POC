@@ -1,0 +1,8 @@
+services:
+  configurator-headless:
+    build: .
+    container_name: configurator-headless-container
+    restart: unless-stopped
+    ports:
+      - "100:80"
+
